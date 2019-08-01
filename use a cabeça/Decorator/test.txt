@@ -1,0 +1,1 @@
+Conheço o Padrão Decorator, então EU MANDO!
